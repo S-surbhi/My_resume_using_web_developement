@@ -1,0 +1,7 @@
+.side-by-side {
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+  }
+  .container {
+    background-color: blue;
+  }
